@@ -24,6 +24,15 @@ It aims to provide a smooth desktop experience with performance-focused tuning.
 
 ---
 
+## 🤝 Community & Socials
+
+- [Discord](https://discord.com/invite/sqWcgwEY7e) 
+- [Reddit](https://www.reddit.com/r/valoraOS/) 
+- [Tiktok](https://www.tiktok.com/@valoraos)
+- [Twitter/X](https://x.com/valoraos)
+
+---
+
 ## 📦 Packages
 
 Example commands:
