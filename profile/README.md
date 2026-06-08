@@ -30,6 +30,15 @@ It aims to provide a smooth desktop experience with performance-focused tuning.
 - [Reddit](https://www.reddit.com/r/valoraOS/) 
 - [Tiktok](https://www.tiktok.com/@valoraos)
 - [Twitter/X](https://x.com/valoraos)
+- 
+  <a href="https://ko-fi.com/valoraos" target="_blank">
+    <kbd> <b>Donate</b> </kbd>
+  </a>
+</h1>
+
+
+
+
 
 ---
 
