@@ -2,7 +2,7 @@
   <img src="applee-touch-icon.png" width="90" alt="ValoraOS logo">
   <br/>
   <h1>ValoraOS</h1>
-  <p>A Linux-based system focused on performance, simplicity, and customization.</p>
+  <p>A Linux-based system focused on performance, aesthetics, and customization.</p>
 </div>
 
 ---
