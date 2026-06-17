@@ -31,13 +31,11 @@ It aims to provide a smooth desktop experience with performance-focused tuning.
 - [Tiktok](https://www.tiktok.com/@valoraos)
 - [Twitter/X](https://x.com/valoraos)
 - [Instagram](https://instagram.com/valoraos_)
-- 
+  
   <a href="https://ko-fi.com/valoraos" target="_blank">
     <kbd> <b>Donate</b> </kbd>
   </a>
 </h1>
-
-
 
 
 
@@ -46,6 +44,11 @@ It aims to provide a smooth desktop experience with performance-focused tuning.
 ## 📦 Packages
 
 Example commands:
-
 ```bash
 sudo apt install package-name
+```
+## 🍊 Download on https://valoraos.org/
+
+
+
+
